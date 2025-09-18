@@ -7,6 +7,7 @@ Final-year BSc Computer Science & Computer Engineering student at the University
 - **Email:** matomepontso@gmail.com
 - **Phone:** +27 67 260 3309
 - **LinkedIn:** [linkedin.com/in/matomembowene](https://www.linkedin.com/in/matomembowene)
+- **Web Portfolio:** https://matome-portfolio.web.app/
 - **Location:** Cape Town, Western Cape, South Africa
 - **GitHub:** Available upon request (private repositories)
 
@@ -35,7 +36,7 @@ AI/ML Developer with hands-on experience in PyTorch, reinforcement learning, and
   - Production-ready deployment on Streamlit Cloud
 - **Skills Demonstrated:** RAG Systems, LLM Integration, Vector Databases, Full-Stack Development, AI Product Design
 - **Repository:** [github.com/MatomeMb/personal-codex-agent](https://github.com/MatomeMb/personal-codex-agent)
-- **Status:** Live demo available - showcases real AI engineering capabilities
+- **Status:** Live demo available: https://matomemb-personal-codex-agent-app-wbqcue.streamlit.app/
 
 ### **🧠 FashionMNIST Neural Network Classifier**
 **March 2025 | Solo Project**
